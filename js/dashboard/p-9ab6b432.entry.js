@@ -1,0 +1,1 @@
+import{r as s,c as t,h as c,H as e}from"./p-0c27b687.js";let h=class{constructor(c){s(this,c),this.fetchNextSuccess=t(this,"fetchNextSuccess",7),this.fetchAllSuccess=t(this,"fetchAllSuccess",7),this.entryType=[],this.type="",this.data={},this.searchEngine=!1}componentWillLoad(){}render(){return c(e,null,c("slot",null))}};export{h as fetch_api}

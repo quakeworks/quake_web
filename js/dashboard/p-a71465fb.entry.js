@@ -1,1 +1,0 @@
-import{r as l,h as s,H as r}from"./p-8b24b4f8.js";let t=class{constructor(s){l(this,s),this.items=[]}render(){return s(r,null,s("slot",null,s("h1",null,"dsfa"),s("h1",null,"dsfa"),s("h1",null,"dsfa")))}};t.style=":host{display:block}";export{t as flow_view}
