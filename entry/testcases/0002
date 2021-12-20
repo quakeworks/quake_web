@@ -1,0 +1,1 @@
+{"title":"test embed links html","created_date":1639502136,"updated_date":1639502136,"id":2,"content":"\n\n示例：\n\n```html\n<embed-link entry-type='spike' entry-id='2'></embed-link>\n```\n\n结果：\n\n<embed-link entry-type='spike' entry-id='2'></embed-link>\n\n","type":"testcases"}

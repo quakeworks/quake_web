@@ -22,6 +22,7 @@ PageSearch.prototype.search = function (options) {
   })
 };
 
+// modify by content
 let is_pagedump = true;
 
 const Quake = {
@@ -150,7 +151,7 @@ const show_entry = async (context, commands) => {
 function handleAction(define) {
   if (define.action === 'add') {
     Router.go(`/entry/${define.object}/new?text=${define.text}`)
-  } else if(define.action === 'show') {
+  } else if (define.action === 'show') {
     Router.go(`/show/${define.object}/${define.parameters[0]}`);
   } else if (define.parameters.length > 0) {
     Router.go(`/edit/${define.object}/${define.parameters[0]}`);

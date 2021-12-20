@@ -1,0 +1,1 @@
+{"title":"deploy to GitHub pages as demo.","author":"","status":"Spike","priority":"Low","created_date":1639664628,"updated_date":1639664628,"id":29,"content":"\n\n\n1. compile `core/parser` to web assembly\n2. `<fetch-api>` for online deploy\n3. convert data to json files.\n\n","type":"story"}

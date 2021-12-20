@@ -1,0 +1,1 @@
+{"title":"dump data for github pages","author":"","status":"Spike","priority":"Low","created_date":1639870094,"updated_date":1639870094,"id":30,"content":"\n\n// 1. dump entries config;\ndump_entries_define();\n// 2. dump quake information;\ndump_transflow();\ndump_layout();\ndump_links();\n// 3. export all entry_type data to json\ndump_entries_data();\n\n\n","type":"story"}

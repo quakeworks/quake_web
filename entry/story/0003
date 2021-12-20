@@ -1,0 +1,1 @@
+{"title":"page link support","author":"","status":"Done","priority":"Medium","created_date":1638456059,"updated_date":1638456059,"id":3,"content":"\n\nsuch as page link in Notion: `[[]]`\n\nsome_link [[issue:0001-demo]] fdas\n","type":"story"}
